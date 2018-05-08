@@ -259,8 +259,7 @@
   {'city': 'Azalea Park', 'state': 'Florida'},
   {'city': 'Azle', 'state': 'Texas'},
   {'city': 'Aztec', 'state': 'New Mexico'},
-  {'city': 'Azusa', 'state': 'California'},
-  
+{'city': 'Azusa', 'state': 'California'},
 {'city': 'Babylon', 'state': 'New York'},
 {'city': 'Babylon', 'state': 'New York'},
 {'city': 'Back Mountain', 'state': 'Pennsylvania'},
@@ -696,7 +695,6 @@
 {'city': 'Butte-Silver Bow', 'state': 'Montana'},
 {'city': 'Buxton', 'state': 'Maine'},
 {'city': 'Byram', 'state': 'Mississippi'},
-  
 {'city': 'Cabot', 'state': 'Arkansas'},
 {'city': 'Cadillac', 'state': 'Michigan'},
 {'city': 'Cahokia', 'state': 'Illinois'},
@@ -5974,10 +5972,10 @@
 {'city': 'Yukon', 'state': 'Oklahoma'},
 {'city': 'Yulee', 'state': 'Florida'},
 {'city': 'Yuma', 'state': 'Arizona'},
-  {'city': 'Zachary', 'state': 'Louisiana'},
+{'city': 'Zachary', 'state': 'Louisiana'},
 {'city': 'Zanesville', 'state': 'Ohio'},
 {'city': 'Zephyrhills', 'state': 'Florida'},
 {'city': 'Zion', 'state': 'Illinois'},
 {'city': 'Zionsville', 'state': 'Indiana'},
-{'city': 'Zuni Pueblo', 'state': 'New Mexico'},
-  ]
+{'city': 'Zuni Pueblo', 'state': 'New Mexico'}
+]
